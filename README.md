@@ -2,7 +2,7 @@
 
 ### **Software Engineer | React & TypeScript Specialist | UI/UX Enthusiast**  
 
-I am a **frontend developer** with expertise in **React, TypeScript, and modern UI frameworks**. My focus is on building scalable, high-performance applications with a strong emphasis on **user experience and design**. Additionally, I explore **VR/AR technologies** and their applications in interactive configurator.  
+I am a **Software developer** with expertise in **React, TypeScript, and modern UI frameworks**. My focus is on building scalable, high-performance applications with a strong emphasis on **user experience and design**. Additionally, I explore **VR/AR technologies** and their applications in interactive configurator.  
 
 ---
 
