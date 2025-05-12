@@ -18,7 +18,7 @@ I am a **Software developer** with expertise in **React, TypeScript, and modern 
 
 ## 📢 **Connect with Me**  
 
-- **Portfolio:** [ambatisrinivas.com](https://ambatisrinivas.in)  
+- **Portfolio:** [ambatisrinivas.in](https://ambatisrinivas.in)  
 - **LinkedIn:** [LINK](https://www.linkedin.com/in/srinivasambati)  
 - **Email:** asreddy5270@gmail.com
 
